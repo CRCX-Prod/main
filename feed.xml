@@ -3,7 +3,7 @@
     <title>Home</title>
     <link href="https://CRCX-Prod.github.io/main/feed.xml" rel="self" />
     <link href="https://CRCX-Prod.github.io/main" />
-    <updated>2019-02-15T18:25:00+06:30</updated>
+    <updated>2019-02-18T13:18:15+06:30</updated>
     <author>
         <name>Charles</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://CRCX-Prod.github.io/main/test-2.html"/>
         <id>https://CRCX-Prod.github.io/main/test-2.html</id>
 
-        <updated>2019-01-31T11:29:13+06:30</updated>
+        <updated>2019-02-18T12:24:56+06:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -29,5 +29,17 @@
 </div>
             ]]>
         </content>
+    </entry>
+    <entry>
+        <title>North Thailand Trip</title>
+        <author>
+            <name>Charles</name>
+        </author>
+        <link href="https://CRCX-Prod.github.io/main/north-thailand-trip.html"/>
+        <id>https://CRCX-Prod.github.io/main/north-thailand-trip.html</id>
+
+        <updated>2019-02-18T13:11:05+06:30</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>
