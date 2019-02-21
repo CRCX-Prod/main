@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Home",
+    "description": "",
+    "home_page_url": "https://CRCX-Prod.github.io/main",
+    "feed_url": "https://CRCX-Prod.github.io/main/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Charles"
+    },
+    "items": [
+        {
+            "id": "https://CRCX-Prod.github.io/main/shwedagon.html",
+            "url": "https://CRCX-Prod.github.io/main/shwedagon.html",
+            "title": "ShweDagon",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://CRCX-Prod.github.io/main/media/posts/6//gallery/DSCF1209.jpg\" ><img src=\"https://CRCX-Prod.github.io/main/media/posts/6//gallery/DSCF1209-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "image": "https://CRCX-Prod.github.io/main/media/posts/6/DSCF1209.jpg",
+            "author": {
+                "name": "Charles"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-30T23:00:00+06:30",
+            "date_modified": "2019-02-18T23:19:22+06:30"
+        },
+        {
+            "id": "https://CRCX-Prod.github.io/main/test-2.html",
+            "url": "https://CRCX-Prod.github.io/main/test-2.html",
+            "title": "DownTown",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://CRCX-Prod.github.io/main/media/posts/4/gallery/DSCF1120.jpg\" ><img src=\"https://CRCX-Prod.github.io/main/media/posts/4/gallery/DSCF1120-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://CRCX-Prod.github.io/main/media/posts/4/gallery/DSCF1151.jpg\" ><img src=\"https://CRCX-Prod.github.io/main/media/posts/4/gallery/DSCF1151-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://CRCX-Prod.github.io/main/media/posts/4/gallery/DSCF1156.jpg\" ><img src=\"https://CRCX-Prod.github.io/main/media/posts/4/gallery/DSCF1156-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "image": "https://CRCX-Prod.github.io/main/media/posts/4/DSCF1120.jpg",
+            "author": {
+                "name": "Charles"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-29T23:05:59+06:30",
+            "date_modified": "2019-02-18T12:24:56+06:30"
+        },
+        {
+            "id": "https://CRCX-Prod.github.io/main/north-thailand-trip.html",
+            "url": "https://CRCX-Prod.github.io/main/north-thailand-trip.html",
+            "title": "North Thailand Trip",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://CRCX-Prod.github.io/main/media/posts/5/gallery/DSCF0805.jpg\" ><img src=\"https://CRCX-Prod.github.io/main/media/posts/5/gallery/DSCF0805-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "image": "https://CRCX-Prod.github.io/main/media/posts/5/DSCF0805.jpg",
+            "author": {
+                "name": "Charles"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-05T12:43:00+06:30",
+            "date_modified": "2019-02-18T23:33:18+06:30"
+        }
+    ]
+}
