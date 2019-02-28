@@ -3,7 +3,7 @@
     <title>Home</title>
     <link href="https://crcx-prod.github.io/main/feed.xml" rel="self" />
     <link href="https://crcx-prod.github.io/main" />
-    <updated>2019-02-27T18:24:17+06:30</updated>
+    <updated>2019-02-28T11:09:32+06:30</updated>
     <author>
         <name>Charles</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://crcx-prod.github.io/main/shwedagon.html"/>
         <id>https://crcx-prod.github.io/main/shwedagon.html</id>
 
-        <updated>2019-02-18T23:19:22+06:30</updated>
+        <updated>2019-02-28T11:08:22+06:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -36,7 +36,7 @@
         <link href="https://crcx-prod.github.io/main/test-2.html"/>
         <id>https://crcx-prod.github.io/main/test-2.html</id>
 
-        <updated>2019-02-18T12:24:56+06:30</updated>
+        <updated>2019-02-28T11:08:06+06:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -64,6 +64,33 @@
                     <img src="https://crcx-prod.github.io/main/media/posts/5/DSCF0805.jpg" alt="" />
                 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/5/gallery/DSCF0805.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/5/gallery/DSCF0805-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Inle Lake</title>
+        <author>
+            <name>Charles</name>
+        </author>
+        <link href="https://crcx-prod.github.io/main/inle-lake.html"/>
+        <id>https://crcx-prod.github.io/main/inle-lake.html</id>
+
+        <updated>2019-02-28T11:03:06+06:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://crcx-prod.github.io/main/media/posts/15/72340_10156800716235533_8006407156701267282_n_10156800716235533.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-1.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-1-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-2.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-2-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-4.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-4-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-6.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-6-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-7.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-7-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-9.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-9-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-10.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-10-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-11.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-11-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-13.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/15/gallery/Inle-Lake-13-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 </div>
             ]]>
         </content>
@@ -97,6 +124,25 @@
 <figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/9/gallery/Monsoon-7.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/9/gallery/Monsoon-7-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/9/gallery/Monsoon-6.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/9/gallery/Monsoon-6-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/9/gallery/Monsoon-8.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/9/gallery/Monsoon-8-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>BBNG</title>
+        <author>
+            <name>Charles</name>
+        </author>
+        <link href="https://crcx-prod.github.io/main/bbng.html"/>
+        <id>https://crcx-prod.github.io/main/bbng.html</id>
+
+        <updated>2019-02-28T10:54:49+06:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://crcx-prod.github.io/main/media/posts/12/BBNG.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/12/gallery/BBNG.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/12/gallery/BBNG-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 </div>
             ]]>
         </content>
@@ -137,6 +183,25 @@
                     <img src="https://crcx-prod.github.io/main/media/posts/11/Ireland-16.jpg" alt="" />
                 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/11//gallery/Ireland-16.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/11//gallery/Ireland-16-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Tower Record - Dublin</title>
+        <author>
+            <name>Charles</name>
+        </author>
+        <link href="https://crcx-prod.github.io/main/tower-record-dublin.html"/>
+        <id>https://crcx-prod.github.io/main/tower-record-dublin.html</id>
+
+        <updated>2019-02-28T11:04:00+06:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://crcx-prod.github.io/main/media/posts/13/Record-Store.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/13/gallery/Record-Store.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/13/gallery/Record-Store-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 </div>
             ]]>
         </content>
@@ -186,35 +251,6 @@
 <figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/7/gallery/IMG_1888.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/7/gallery/IMG_1888-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/7/gallery/IMG_2089.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/7/gallery/IMG_2089-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/7/gallery/Panorama-Arc-en-ciel-2-2.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/7/gallery/Panorama-Arc-en-ciel-2-2-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Belfast</title>
-        <author>
-            <name>Charles</name>
-        </author>
-        <link href="https://crcx-prod.github.io/main/ireland-copy.html"/>
-        <id>https://crcx-prod.github.io/main/ireland-copy.html</id>
-
-        <updated>2019-02-27T10:58:58+06:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://crcx-prod.github.io/main/media/posts/8/IMG_0817.jpg" alt="" />
-                    BelfastBelfast
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://crcx-prod.github.io/main/media/posts/8/IMG_0817.jpg" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/8/gallery/IMG_0817.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/8/gallery/IMG_0817-thumbnail.jpg" alt="" width="240" height="240"></a>
-<figcaption class="gallery-description">Belfast</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/8/gallery/IMG_0842.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/8/gallery/IMG_0842-thumbnail.jpg" alt="" width="240" height="240"></a>
-<figcaption class="gallery-description">Belfast</figcaption>
-</figure>
 </div>
             ]]>
         </content>
