@@ -19,6 +19,8 @@
                 "name": "Charles"
             },
             "tags": [
+                   "Myanmar",
+                   "2019"
             ],
             "date_published": "2019-08-11T03:04:00+06:30",
             "date_modified": "2019-08-20T03:38:24+06:30"
@@ -34,6 +36,8 @@
                 "name": "Charles"
             },
             "tags": [
+                   "Myanmar",
+                   "2019"
             ],
             "date_published": "2019-08-10T08:50:00+06:30",
             "date_modified": "2019-08-20T02:58:36+06:30"
@@ -48,6 +52,9 @@
                 "name": "Charles"
             },
             "tags": [
+                   "Yangon",
+                   "Myanmar",
+                   "2019"
             ],
             "date_published": "2019-01-30T23:00:00+06:30",
             "date_modified": "2019-03-17T12:42:37+06:30"
@@ -62,6 +69,10 @@
                 "name": "Charles"
             },
             "tags": [
+                   "Yangon",
+                   "Street",
+                   "Myanmar",
+                   "2019"
             ],
             "date_published": "2019-01-29T23:05:59+06:30",
             "date_modified": "2019-02-28T11:08:06+06:30"
@@ -77,6 +88,8 @@
                 "name": "Charles"
             },
             "tags": [
+                   "Thailand",
+                   "2019"
             ],
             "date_published": "2019-01-06T12:24:00+06:30",
             "date_modified": "2019-03-17T12:32:16+06:30"
@@ -92,6 +105,9 @@
                 "name": "Charles"
             },
             "tags": [
+                   "Thailand",
+                   "2019",
+                   "2018"
             ],
             "date_published": "2019-01-05T12:43:00+06:30",
             "date_modified": "2019-03-17T12:31:46+06:30"
@@ -107,6 +123,8 @@
                 "name": "Charles"
             },
             "tags": [
+                   "Thailand",
+                   "2018"
             ],
             "date_published": "2018-12-31T12:15:00+06:30",
             "date_modified": "2019-03-17T12:37:19+06:30"
@@ -121,6 +139,7 @@
                 "name": "Charles"
             },
             "tags": [
+                   "Myanmar"
             ],
             "date_published": "2016-03-24T11:20:00+06:30",
             "date_modified": "2019-02-28T11:20:46+06:30"
@@ -135,6 +154,7 @@
                 "name": "Charles"
             },
             "tags": [
+                   "Myanmar"
             ],
             "date_published": "2016-03-24T10:57:00+06:30",
             "date_modified": "2019-02-28T11:03:06+06:30"
@@ -149,6 +169,7 @@
                 "name": "Charles"
             },
             "tags": [
+                   "Yangon"
             ],
             "date_published": "2015-07-13T10:35:00+06:30",
             "date_modified": "2019-02-27T10:52:20+06:30"
