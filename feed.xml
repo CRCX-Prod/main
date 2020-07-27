@@ -3,13 +3,18 @@
     <title>Home</title>
     <link href="https://crcx-prod.github.io/main/feed.xml" rel="self" />
     <link href="https://crcx-prod.github.io/main" />
+<<<<<<< HEAD
     <updated>2020-03-12T18:14:21+06:30</updated>
+=======
+    <updated>2019-03-17T12:43:11+06:30</updated>
+>>>>>>> parent of 58061c5... Monywa
     <author>
         <name>Charles</name>
     </author>
     <id>https://crcx-prod.github.io/main</id>
 
     <entry>
+<<<<<<< HEAD
         <title>Sagaing Hill</title>
         <author>
             <name>Charles</name>
@@ -94,6 +99,8 @@
         </content>
     </entry>
     <entry>
+=======
+>>>>>>> parent of 58061c5... Monywa
         <title>ShweDagon</title>
         <author>
             <name>Charles</name>
@@ -360,6 +367,46 @@
 <figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/9/gallery/Monsoon-7.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/9/gallery/Monsoon-7-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/9/gallery/Monsoon-6.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/9/gallery/Monsoon-6-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/9/gallery/Monsoon-8.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/9/gallery/Monsoon-8-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>BBNG</title>
+        <author>
+            <name>Charles</name>
+        </author>
+        <link href="https://crcx-prod.github.io/main/bbng.html"/>
+        <id>https://crcx-prod.github.io/main/bbng.html</id>
+
+        <updated>2019-02-28T10:54:49+06:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://crcx-prod.github.io/main/media/posts/12/BBNG.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/12/gallery/BBNG.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/12/gallery/BBNG-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Dublin Sunset</title>
+        <author>
+            <name>Charles</name>
+        </author>
+        <link href="https://crcx-prod.github.io/main/dublin-by-night.html"/>
+        <id>https://crcx-prod.github.io/main/dublin-by-night.html</id>
+
+        <updated>2019-02-27T11:01:46+06:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://crcx-prod.github.io/main/media/posts/10/Ireland-17.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/10//gallery/Ireland-15.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/10//gallery/Ireland-15-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/10//gallery/Ireland-17.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/10//gallery/Ireland-17-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://crcx-prod.github.io/main/media/posts/10//gallery/Ireland-18.jpg" ><img src="https://crcx-prod.github.io/main/media/posts/10//gallery/Ireland-18-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 </div>
             ]]>
         </content>
