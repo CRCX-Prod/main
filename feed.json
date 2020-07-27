@@ -10,7 +10,6 @@
     },
     "items": [
         {
-<<<<<<< HEAD
             "id": "https://crcx-prod.github.io/main/sagaing-hill.html",
             "url": "https://crcx-prod.github.io/main/sagaing-hill.html",
             "title": "Sagaing Hill",
@@ -20,8 +19,6 @@
                 "name": "Charles"
             },
             "tags": [
-                   "Myanmar",
-                   "2019"
             ],
             "date_published": "2019-08-11T03:04:00+06:30",
             "date_modified": "2019-08-20T03:38:24+06:30"
@@ -37,15 +34,11 @@
                 "name": "Charles"
             },
             "tags": [
-                   "Myanmar",
-                   "2019"
             ],
             "date_published": "2019-08-10T08:50:00+06:30",
             "date_modified": "2019-08-20T02:58:36+06:30"
         },
         {
-=======
->>>>>>> parent of 58061c5... Monywa
             "id": "https://crcx-prod.github.io/main/shwedagon.html",
             "url": "https://crcx-prod.github.io/main/shwedagon.html",
             "title": "ShweDagon",
@@ -55,9 +48,6 @@
                 "name": "Charles"
             },
             "tags": [
-                   "Yangon",
-                   "Myanmar",
-                   "2019"
             ],
             "date_published": "2019-01-30T23:00:00+06:30",
             "date_modified": "2019-03-17T12:42:37+06:30"
@@ -72,10 +62,6 @@
                 "name": "Charles"
             },
             "tags": [
-                   "Yangon",
-                   "Street",
-                   "Myanmar",
-                   "2019"
             ],
             "date_published": "2019-01-29T23:05:59+06:30",
             "date_modified": "2019-02-28T11:08:06+06:30"
@@ -91,8 +77,6 @@
                 "name": "Charles"
             },
             "tags": [
-                   "Thailand",
-                   "2019"
             ],
             "date_published": "2019-01-06T12:24:00+06:30",
             "date_modified": "2019-03-17T12:32:16+06:30"
@@ -108,9 +92,6 @@
                 "name": "Charles"
             },
             "tags": [
-                   "Thailand",
-                   "2019",
-                   "2018"
             ],
             "date_published": "2019-01-05T12:43:00+06:30",
             "date_modified": "2019-03-17T12:31:46+06:30"
@@ -126,8 +107,6 @@
                 "name": "Charles"
             },
             "tags": [
-                   "Thailand",
-                   "2018"
             ],
             "date_published": "2018-12-31T12:15:00+06:30",
             "date_modified": "2019-03-17T12:37:19+06:30"
@@ -142,7 +121,6 @@
                 "name": "Charles"
             },
             "tags": [
-                   "Myanmar"
             ],
             "date_published": "2016-03-24T11:20:00+06:30",
             "date_modified": "2019-02-28T11:20:46+06:30"
@@ -157,7 +135,6 @@
                 "name": "Charles"
             },
             "tags": [
-                   "Myanmar"
             ],
             "date_published": "2016-03-24T10:57:00+06:30",
             "date_modified": "2019-02-28T11:03:06+06:30"
@@ -172,38 +149,9 @@
                 "name": "Charles"
             },
             "tags": [
-                   "Yangon"
             ],
             "date_published": "2015-07-13T10:35:00+06:30",
             "date_modified": "2019-02-27T10:52:20+06:30"
-        },
-        {
-            "id": "https://crcx-prod.github.io/main/bbng.html",
-            "url": "https://crcx-prod.github.io/main/bbng.html",
-            "title": "BBNG",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://crcx-prod.github.io/main/media/posts/12/gallery/BBNG.jpg\" ><img src=\"https://crcx-prod.github.io/main/media/posts/12/gallery/BBNG-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
-            "image": "https://crcx-prod.github.io/main/media/posts/12/BBNG.jpg",
-            "author": {
-                "name": "Charles"
-            },
-            "tags": [
-            ],
-            "date_published": "2015-06-01T10:53:00+06:30",
-            "date_modified": "2019-02-28T10:54:49+06:30"
-        },
-        {
-            "id": "https://crcx-prod.github.io/main/dublin-by-night.html",
-            "url": "https://crcx-prod.github.io/main/dublin-by-night.html",
-            "title": "Dublin Sunset",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://crcx-prod.github.io/main/media/posts/10//gallery/Ireland-15.jpg\" ><img src=\"https://crcx-prod.github.io/main/media/posts/10//gallery/Ireland-15-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://crcx-prod.github.io/main/media/posts/10//gallery/Ireland-17.jpg\" ><img src=\"https://crcx-prod.github.io/main/media/posts/10//gallery/Ireland-17-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://crcx-prod.github.io/main/media/posts/10//gallery/Ireland-18.jpg\" ><img src=\"https://crcx-prod.github.io/main/media/posts/10//gallery/Ireland-18-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
-            "image": "https://crcx-prod.github.io/main/media/posts/10/Ireland-17.jpg",
-            "author": {
-                "name": "Charles"
-            },
-            "tags": [
-            ],
-            "date_published": "2014-05-27T10:54:00+06:30",
-            "date_modified": "2019-02-27T11:01:46+06:30"
         }
     ]
 }
